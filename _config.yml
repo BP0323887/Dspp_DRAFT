@@ -1,14 +1,16 @@
 title: "Luke Waldron"
-description: "Insight Manager | Data Science | FCA & FOS Complaints (UK Banking)"
+description: "Insight Manager | Data Science | FOS Complaints (UK Banking)"
 #commentd out old theme 
-#theme: minimal-mistakes-jekyll
+
+theme: jekyll-theme-hyde
+
 markdown: kramdown
+highlighter: rouge
 
 # Use the Dopetrope theme from the repo you shared
-remote_theme: jeromelachaud/freelancer-theme@master
-plugins:
-  - jekyll-remote-theme
-  layout: default
+#remote_theme: jeromelachaud/freelancer-theme@master
+#plugins:
+  #- jekyll-remote-theme
 
 
 #header image
