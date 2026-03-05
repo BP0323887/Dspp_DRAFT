@@ -7,12 +7,6 @@ theme: jekyll-theme-hyde
 markdown: kramdown
 highlighter: rouge
 
-# Use the Dopetrope theme from the repo you shared
-#remote_theme: jeromelachaud/freelancer-theme@master
-#plugins:
-  #- jekyll-remote-theme
-
-
 #header image
 logo: /Images/9F2B252D-4D27-469D-A35A-E5D706C4B82B.jpeg
 
