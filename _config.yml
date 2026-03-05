@@ -5,7 +5,7 @@ description: "Insight Manager | Data Science | FCA & FOS Complaints (UK Banking)
 markdown: kramdown
 
 # Use the Dopetrope theme from the repo you shared
-remote_theme: aronduby/Dopetrope-Jekyll-Theme@main
+remote_theme: jeromelachaud/freelancer-theme@main
 plugins:
   - jekyll-remote-theme
   layout: default
