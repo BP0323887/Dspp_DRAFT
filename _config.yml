@@ -8,6 +8,7 @@ markdown: kramdown
 remote_theme: aronduby/Dopetrope-Jekyll-Theme@main
 plugins:
   - jekyll-remote-theme
+  layout: default
 
 
 #header image
