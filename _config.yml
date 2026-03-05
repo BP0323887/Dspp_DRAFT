@@ -1,6 +1,6 @@
 title: "Luke Waldron"
 description: "Insight Manager | Data Science | FCA & FOS Complaints (UK Banking)"
-theme: jekyll-theme-agency
+theme: minimal-mistakes-jekyll
 markdown: kramdown
 
 # Optional header image
