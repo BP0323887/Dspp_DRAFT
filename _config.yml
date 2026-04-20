@@ -1,18 +1,36 @@
-title: "Luke Waldron"
-description: "Insight Manager | Data Science | FOS Complaints (UK Banking)"
-#commentd out old theme 
+title: Luke Waldron
+
+tagline: Insight Manager and Data Science Student
+
+description: >
+  Portfolio of analytical and data science work to support Degree Programme;
+
+author:
+  name: Luke Waldron
+  location: United Kingdom
 
 theme: jekyll-theme-hyde
 
 markdown: kramdown
 highlighter: rouge
 
-#header image
-logo: /Images/9F2B252D-4D27-469D-A35A-E5D706C4B82B.jpeg
+# Header image
+logo: /images/profile.jpg
 
-# Show download button automatically
+# Portfolio intent
 show_downloads: false
 
 # GitHub Pages metadata
 github:
   is_project_page: false
+
+# Optional but useful
+social:
+  github: yourusername
+  linkedin: yourprofile
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
